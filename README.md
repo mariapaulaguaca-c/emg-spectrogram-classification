@@ -46,3 +46,8 @@ Spectrogram generation using Short-Time Fourier Transform
 Image normalization
 
 **Dataset splitting (train / validation / test)**
+
+**Author**
+Maria Paula Guaca Campo
+Electronic and Telecommunications Engineer
+Master’s student in Big Data Analysis and Visualization
