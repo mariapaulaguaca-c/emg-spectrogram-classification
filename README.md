@@ -4,7 +4,7 @@ Classification of the 26 letters of the fingerspelling (dactylology) alphabet fr
 
 **Best result:** InceptionV3 reached **82% accuracy and 0.82 macro F1** across 26 classes, up from 56% after adding synthetic data.
 
-> Undergraduate thesis project — Electronic and Telecommunications Engineering, Universidad del Cauca (2025).
+> Thesis project — Electronic and Telecommunications Engineering, Universidad del Cauca (2025).
 
 ---
 
@@ -23,7 +23,7 @@ Fingerspelling is used to spell names and terms that have no dedicated sign. Cam
 | Sample shape | 400 × 8 (time × EMG channel) per recording |
 | Format | JSON, one file per recording |
 
-> The raw data is not included in this repository. Source: *[add dataset link/citation]*
+> The raw data is not included in this repository. Source: *[https://github.com/airtlab/An-EMG-and-IMU-Dataset-for-the-Italian-Sign-Language-Alphabet]*
 
 ## Pipeline
 
