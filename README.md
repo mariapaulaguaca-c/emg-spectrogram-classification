@@ -82,10 +82,6 @@ With only 30 samples per class, the best configuration (InceptionV3 + Approach 2
 - **Best-classified letters:** D, J, L, Y, Z (F1 ≥ 0.91). These have very distinctive hand shapes or motion trajectories.
 - **Hardest letters:** X (F1 0.61), V (0.68), Q (0.70). These have similar shapes or low muscle activation.
 
-<!-- Add figures, e.g.:
-![Confusion matrix](figures/confusion_matrix_inceptionv3.png)
-![Spectrogram examples](figures/spectrogram_examples.png)
--->
 
 ## Key takeaways
 - Pretrained image CNNs transfer well to EMG spectrograms when the time–frequency representation is designed carefully.
